@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/buraksevinclii" target="blank"><img src="https://img.shields.io/twitter/follow/buraksevinclii?logo=twitter&style=for-the-badge" alt="buraksevinclii" /></a> </p>
 
-- 🌱 I’m currently learning **Unity**
+- 🌱 I’m currently learning **Unity & C#**
 
 - 👨‍💻 All of my projects are available at [https://buraksevincli.itch.io/](https://buraksevincli.itch.io/)
 

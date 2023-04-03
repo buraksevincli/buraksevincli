@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Unity & C#**
 
-- 👨‍💻 All of my projects are available at [https://buraksevincli.itch.io/](https://buraksevincli.itch.io/)
+- 👨‍💻 All of my projects are available at [buraksevincli.itch.io](buraksevincli.itch.io)
 
 - 📫 How to reach me **brksvncli@gmail.com**
 
--👨‍💻 All of my links **linktr.ee/buraksevincli**
+- 👨‍💻 All of my links [linktr.ee/buraksevincli](linktr.ee/buraksevincli)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

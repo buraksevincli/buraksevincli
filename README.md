@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **brksvncli@gmail.com**
 
+-👨‍💻 All of my links **linktr.ee/buraksevincli**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/buraksevinclii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="buraksevinclii" height="30" width="40" /></a>

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burak Sevinçli</h1>
-<h3 align="center">I'm a Mechanical Engineer. I develop myself in the software industry. I am studying game development with unity at the game and application academy.</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buraksevincli&label=Profile%20views&color=0e75b6&style=flat" alt="buraksevincli" /> </p>
 

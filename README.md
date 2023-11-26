@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Unity & C#**
 
-- 👨‍💻 All of my projects are available at [buraksevincli.itch.io](buraksevincli.itch.io)
-
 - 📫 How to reach me **brksvncli@gmail.com**
 
 - 👨‍💻 All of my links [linktr.ee/buraksevincli](linktr.ee/buraksevincli)
